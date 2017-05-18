@@ -1,9 +1,0 @@
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\bin\Debug\netcoreapp1.1\BFFConsole.API.deps.json
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\bin\Debug\netcoreapp1.1\BFFConsole.API.runtimeconfig.json
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\bin\Debug\netcoreapp1.1\BFFConsole.API.runtimeconfig.dev.json
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\bin\Debug\netcoreapp1.1\BFFConsole.API.dll
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\obj\Debug\netcoreapp1.1\BFFConsole.API.csprojResolveAssemblyReference.cache
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\obj\Debug\netcoreapp1.1\BFFConsole.API.AssemblyInfo.cs
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\bin\Debug\netcoreapp1.1\BFFConsole.API.pdb
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\obj\Debug\netcoreapp1.1\BFFConsole.API.dll
-C:\Users\nick.ebert\Source\Sandbox\BFFConsole\BFFConsole.API\obj\Debug\netcoreapp1.1\BFFConsole.API.pdb

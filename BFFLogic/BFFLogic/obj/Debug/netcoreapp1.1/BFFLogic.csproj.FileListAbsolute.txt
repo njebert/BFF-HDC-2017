@@ -1,7 +1,0 @@
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\bin\Debug\netcoreapp1.1\BFFLogic.deps.json
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\bin\Debug\netcoreapp1.1\BFFLogic.dll
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\obj\Debug\netcoreapp1.1\BFFLogic.AssemblyInfo.cs
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\bin\Debug\netcoreapp1.1\BFFLogic.pdb
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\obj\Debug\netcoreapp1.1\BFFLogic.dll
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\obj\Debug\netcoreapp1.1\BFFLogic.pdb
-C:\Users\nick.ebert\Source\Sandbox\BFFLogic\BFFLogic\obj\Debug\netcoreapp1.1\BFFLogic.csprojResolveAssemblyReference.cache
